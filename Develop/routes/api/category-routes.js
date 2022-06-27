@@ -8,14 +8,16 @@ router.get('/', (req, res) => {
   // find all categories
   // be sure to include its associated Products
   Category.findAll({
-    include:{
-      //model:Product//
-    }
+    // include:[
+    // {model:Product}
+    // ]
+    
   })
   .then(function(db_catergory) {
     res.json(db_catergory)
   })
   .catch(function(error) {
+    console.log (error)
     res.json (error)
   })
 });
@@ -23,7 +25,7 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
   // find one category by its `id` value
   // be sure to include its associated Products
-  Category.findByPk({
+  Category.findOne({
     where:{
       id:req.params.id
     }
@@ -32,6 +34,7 @@ router.get('/:id', (req, res) => {
     res.json(db_catergory)
   })
   .catch(function(error) {
+    console.log (error)
     res.json (error)
   })
 });
