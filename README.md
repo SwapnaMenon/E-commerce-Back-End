@@ -20,7 +20,7 @@ SO THAT my company can compete with other e-commerce companies
 - THEN I am able to successfully create, update, and delete data in my database
 
 # Mock-up 
-![demo](https://github.com/SwapnaMenon/E-commerce-Back-End/tree/main/Deve
+
 
 https://user-images.githubusercontent.com/99301209/179363412-83f7882a-39d5-4ae6-a1c9-b0abdf643d39.mp4
 
