@@ -1,12 +1,15 @@
-# 13 Object Relational Mapping (ORM): E-commerce Back End
+# E-commerce Back End
+
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
 
 ## User-Story 
+
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-## Acceptance Criteria
+## Acceptance Criteria 
+
 - GIVEN a functional Express.js API
 - WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 - THEN I am able to connect to a database using Sequelize
@@ -27,5 +30,6 @@ https://user-images.githubusercontent.com/99301209/179363412-83f7882a-39d5-4ae6-
 lop/Assets/E-commerce%20backend%20.mp4)
 
 # Link
+
 - Github Repo: https://github.com/SwapnaMenon/E-commerce-Back-End
 
