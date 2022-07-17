@@ -27,7 +27,7 @@ SO THAT my company can compete with other e-commerce companies
 
 https://user-images.githubusercontent.com/99301209/179363412-83f7882a-39d5-4ae6-a1c9-b0abdf643d39.mp4
 
-lop/Assets/E-commerce%20backend%20.mp4)
+
 
 # Link
 
