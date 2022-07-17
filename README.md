@@ -4,9 +4,7 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 ## User-Story 
 
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+- AS A manager at an internet retail company, I want a back end for my e-commerce website that uses the latest technologies, so that my company can compete with other e-commerce companies
 
 ## Acceptance Criteria 
 
@@ -24,10 +22,7 @@ SO THAT my company can compete with other e-commerce companies
 
 # Mock-up 
 
-
 https://user-images.githubusercontent.com/99301209/179363412-83f7882a-39d5-4ae6-a1c9-b0abdf643d39.mp4
-
-
 
 # Link
 
